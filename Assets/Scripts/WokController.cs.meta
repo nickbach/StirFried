@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b312b503ff75a493b85deed7b17c6df4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - takeoutprefab: {instanceID: 0}
+  - trashprefab: {instanceID: 0}
+  - fireprefab: {instanceID: 0}
+  - woktimerprefab: {instanceID: 0}
+  - gamecontroller: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
